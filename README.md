@@ -6,6 +6,12 @@ This repository is made to help **beginners learn by building**, not memorizing.
 
 ---
 
+## IMPORTANT:
+## Please read the README.md file before using this program.
+## It contains instructions, explanations, and usage examples.
+
+---
+
 ## Available Resource
 
 | Folder | Description |
