@@ -22,7 +22,7 @@ This repository is made to help **beginners learn by building**, not memorizing.
 
 ---
 
-## 🤝 Contribute / Fork & Learn
+## 🤝 Contribute 
 
 You are free to:
 - **Modify and experiment**
