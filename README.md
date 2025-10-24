@@ -1,4 +1,3 @@
-# python-beginner-projects
 # Learn Python By Building 
 
 A collection of beginner-friendly Python projects and exercise that you can practice and do it by your safe
