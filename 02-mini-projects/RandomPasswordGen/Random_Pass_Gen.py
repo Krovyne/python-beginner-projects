@@ -26,3 +26,12 @@ CompPass = "" #set as string
 for passchar in password: #generate the output in better format
     CompPass += passchar
 print(f"Your generated password = {CompPass}")
+
+#alternative and shorter answer
+altpass = random.choices(letters, k = nLetters) + random.choices(numbers, k = nNumbers) + random.choices (symbols, k = nSymbols)
+random.shuffle(altpass)
+CompAltPass = "" #set as string
+for passchar in altpass: #generate the output in better format
+    CompAltPass += passchar
+print("--Alternate Answer--")
+print(f"Your generated password = {CompAltPass}")
